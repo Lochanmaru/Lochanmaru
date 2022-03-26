@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lochanmaru
 - 👀 I’m interested in contributing to open sourse 
 - 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on open source projecta
+- 💞️ I’m looking to collaborate on open source project
 - 📫 mail id :- lochanmaru.211mn025@gmail.com
 
 <!---
